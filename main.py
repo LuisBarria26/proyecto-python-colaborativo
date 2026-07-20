@@ -13,3 +13,4 @@ print("\n=== Cuento ===")
 imprimir_cuento()
 
 print("\n" + "-"*30)  # línea agregada
+print("=" * 30) # linea agregada 
